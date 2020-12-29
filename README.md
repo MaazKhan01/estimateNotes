@@ -1,2 +1,2 @@
 # estimateNotes
-This program will estimate that how many "Notes" are there in the amount using C language.
+This program will estimate that how many "Notes" are there in the amount.
